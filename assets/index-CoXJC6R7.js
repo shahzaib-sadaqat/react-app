@@ -234,7 +234,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     stroke: fill;
   }
   .cst-home-img {
-    background: url("/images/home.jpg") no-repeat
+    background: url("/react-app/images/home.jpg") no-repeat
       center center / cover;
     height: calc(100vh - 135px);
     width: 33vw;
@@ -409,7 +409,7 @@ https://sweetalert2.github.io/#ajax-request`),uj(e),typeof e.title=="string"&&(e
     width: 45vw;
   }
   .cst-home-img {
-    background: url("/images/home.jpg") no-repeat
+    background: url("/react-app/images/home.jpg") no-repeat
       center center / cover;
     height: calc(100vh - 135px);
     width: 33vw;
@@ -463,7 +463,7 @@ https://sweetalert2.github.io/#ajax-request`),uj(e),typeof e.title=="string"&&(e
     width: 45vw;
   }
   .cst-home-img {
-    background: url("/images/home.jpg") no-repeat
+    background: url("/react-app/images/home.jpg") no-repeat
       center center / cover;
     height: calc(100vh - 135px);
     width: 33vw;
@@ -498,32 +498,32 @@ https://sweetalert2.github.io/#ajax-request`),uj(e),typeof e.title=="string"&&(e
   .bg-img-1 {
     width: 100%;
     height: 60vh;
-    background: url("/images/2.jpg") no-repeat center center / cover;
+    background: url("/react-app/images/2.jpg") no-repeat center center / cover;
   }
   .bg-img-2 {
     width: 100%;
     height: 60vh;
-    background: url("/images/1.jpg") no-repeat center center / cover;
+    background: url("/react-app/images/1.jpg") no-repeat center center / cover;
   }
   .bg-img-3 {
     width: 100%;
     height: 60vh;
-    background: url("/images/3.jpg") no-repeat center center / cover;
+    background: url("/react-app/images/3.jpg") no-repeat center center / cover;
   }
   .bg-img-4 {
     width: 100%;
     height: 60vh;
-    background: url("/images/6.jpg") no-repeat center center / cover;
+    background: url("/react-app/images/6.jpg") no-repeat center center / cover;
   }
   .bg-img-5 {
     width: 100%;
     height: 60vh;
-    background: url("/images/4.jpg") no-repeat center center / cover;
+    background: url("/react-app/images/4.jpg") no-repeat center center / cover;
   }
   .bg-img-6 {
     width: 100%;
     height: 60vh;
-    background: url("/images/5.jpg") no-repeat center center / cover;
+    background: url("/react-app/images/5.jpg") no-repeat center center / cover;
   }
   .image-with-text {
     position: relative;
@@ -576,12 +576,12 @@ https://sweetalert2.github.io/#ajax-request`),uj(e),typeof e.title=="string"&&(e
     width: 45vw;
   }
   .cst-home-img {
-    background: url("/images/home.jpg") no-repeat
+    background: url("/react-app/images/home.jpg") no-repeat
       center center / cover;
     height: calc(100vh - 135px);
     width: 33vw;
   }
-`,Nj=()=>h.jsx("div",{children:h.jsx(jj,{})}),_j=()=>h.jsx(Lj,{children:h.jsxs("div",{className:"featurette mt-0 mx-2 d-flex align-items-center",children:[h.jsxs("div",{className:"col-md-8 order-md-2 p-5 cst-height",children:[h.jsxs(Ce.h2,{initial:{opacity:0,x:50},animate:{opacity:1,x:0},exit:{opacity:0,x:-50},transition:{duration:.4,ease:"easeOut"},className:"featurette-heading d-flex align-items-center justify-content-between fs-3 py-3 fw-bold text-uppercase",children:["Latest News",h.jsx("div",{className:"custom-divider"})]}),h.jsxs(Ce.div,{initial:{opacity:0,x:"100%"},animate:{opacity:1,x:0},exit:{opacity:0,x:"-100%"},transition:{duration:.4,ease:"easeOut"},className:"main",children:[h.jsx("div",{className:"row g-4 py-3 row-cols-1 row-cols-lg-1",children:h.jsxs("div",{className:"col d-flex cst-col align-items-center",children:[h.jsx("div",{className:"icon-square text-dark flex-shrink-0 me-3",children:h.jsx("span",{className:"fw-bold border-radius-5 p-3 fs-5 rounded-circle cst-span",children:"01"})}),h.jsx("div",{className:"vertical-divider"}),h.jsxs("div",{className:"px-4",children:[h.jsx("p",{children:"August 9, 2024 Branding 0 Comments"}),h.jsx("h3",{className:"cst-ah",children:"Reasons Why People Use Discord"})]}),h.jsx("div",{className:"img-fluid w-25 text-end img-show",children:h.jsx("img",{className:"w-50",src:"/images/1.jpg",alt:""})})]})}),h.jsx("div",{className:"row g-4 py-3 row-cols-1 row-cols-lg-1",children:h.jsxs("div",{className:"col d-flex cst-col align-items-center",children:[h.jsx("div",{className:"icon-square text-dark flex-shrink-0 me-3",children:h.jsx("span",{className:"fw-bold border-radius-5 p-3 fs-5 rounded-circle cst-span",children:"02"})}),h.jsx("div",{className:"vertical-divider"}),h.jsxs("div",{className:"px-4",children:[h.jsx("p",{children:"August 9, 2024 Branding 0 Comments"}),h.jsx("h3",{className:"cst-ah",children:"Why We Should Read Fewer Books"})]}),h.jsx("div",{className:"img-fluid w-25 text-end img-show",children:h.jsx("img",{className:"w-50",src:"/images/1.jpg",alt:""})})]})}),h.jsx("div",{className:"row g-4 py-3 row-cols-1 row-cols-lg-1",children:h.jsxs("div",{className:"col d-flex cst-col align-items-center",children:[h.jsx("div",{className:"icon-square text-dark flex-shrink-0 me-3",children:h.jsx("span",{className:"fw-bold border-radius-5 p-3 fs-5 rounded-circle cst-span",children:"03"})}),h.jsx("div",{className:"vertical-divider"}),h.jsxs("div",{className:"px-4",children:[h.jsx("p",{children:"August 9, 2024 Branding 0 Comments"}),h.jsx("h3",{className:"cst-ah",children:"A Final Farewell to the iPod"})]}),h.jsx("div",{className:"img-fluid w-25 text-end img-show",children:h.jsx("img",{className:"w-50",src:"/images/1.jpg",alt:""})})]})}),h.jsx("div",{className:"row g-4 py-3 row-cols-1 row-cols-lg-1",children:h.jsxs("div",{className:"col d-flex cst-col align-items-center",children:[h.jsx("div",{className:"icon-square text-dark flex-shrink-0 me-3",children:h.jsx("span",{className:"fw-bold border-radius-5 p-3 fs-5 rounded-circle cst-span",children:"04"})}),h.jsx("div",{className:"vertical-divider"}),h.jsxs("div",{className:"px-4",children:[h.jsx("p",{children:"August 9, 2024 Branding 0 Comments"}),h.jsx("h3",{className:"cst-ah",children:"Dealing with Spring Allergy Symptoms"})]}),h.jsx("div",{className:"img-fluid w-25 text-end img-show",children:h.jsx("img",{className:"w-50",src:"/images/1.jpg",alt:""})})]})}),h.jsx("div",{className:"row g-4 py-3 row-cols-1 row-cols-lg-1",children:h.jsxs("div",{className:"col d-flex cst-col align-items-center",children:[h.jsx("div",{className:"icon-square text-dark flex-shrink-0 me-3",children:h.jsx("span",{className:"fw-bold border-radius-5 p-3 fs-5 rounded-circle cst-span",children:"05"})}),h.jsx("div",{className:"vertical-divider"}),h.jsxs("div",{className:"px-4",children:[h.jsx("p",{children:"August 9, 2024 Branding 0 Comments"}),h.jsx("h3",{className:"cst-ah",children:"How to Take a Break from Yourself"})]}),h.jsx("div",{className:"img-fluid w-25 text-end img-show",children:h.jsx("img",{className:"w-50",src:"/images/1.jpg",alt:""})})]})}),h.jsx("div",{className:"row g-4 py-3 row-cols-1 row-cols-lg-1",children:h.jsxs("div",{className:"col d-flex cst-col align-items-center",children:[h.jsx("div",{className:"icon-square text-dark flex-shrink-0 me-3",children:h.jsx("span",{className:"fw-bold border-radius-5 p-3 fs-5 rounded-circle cst-span",children:"06"})}),h.jsx("div",{className:"vertical-divider"}),h.jsxs("div",{className:"px-4",children:[h.jsx("p",{children:"August 9, 2024 Branding 0 Comments"}),h.jsx("h3",{className:"cst-ah",children:"The Age of Extinction Is Here"})]}),h.jsx("div",{className:"img-fluid w-25 text-end img-show",children:h.jsx("img",{className:"w-50",src:"/images/1.jpg",alt:""})})]})})]})]}),h.jsx("div",{className:"col-md-5 order-md-1 cst-home-img"})]})}),Lj=Gt.div`
+`,Nj=()=>h.jsx("div",{children:h.jsx(jj,{})}),_j=()=>h.jsx(Lj,{children:h.jsxs("div",{className:"featurette mt-0 mx-2 d-flex align-items-center",children:[h.jsxs("div",{className:"col-md-8 order-md-2 p-5 cst-height",children:[h.jsxs(Ce.h2,{initial:{opacity:0,x:50},animate:{opacity:1,x:0},exit:{opacity:0,x:-50},transition:{duration:.4,ease:"easeOut"},className:"featurette-heading d-flex align-items-center justify-content-between fs-3 py-3 fw-bold text-uppercase",children:["Latest News",h.jsx("div",{className:"custom-divider"})]}),h.jsxs(Ce.div,{initial:{opacity:0,x:"100%"},animate:{opacity:1,x:0},exit:{opacity:0,x:"-100%"},transition:{duration:.4,ease:"easeOut"},className:"main",children:[h.jsx("div",{className:"row g-4 py-3 row-cols-1 row-cols-lg-1",children:h.jsxs("div",{className:"col d-flex cst-col align-items-center",children:[h.jsx("div",{className:"icon-square text-dark flex-shrink-0 me-3",children:h.jsx("span",{className:"fw-bold border-radius-5 p-3 fs-5 rounded-circle cst-span",children:"01"})}),h.jsx("div",{className:"vertical-divider"}),h.jsxs("div",{className:"px-4",children:[h.jsx("p",{children:"August 9, 2024 Branding 0 Comments"}),h.jsx("h3",{className:"cst-ah",children:"Reasons Why People Use Discord"})]}),h.jsx("div",{className:"img-fluid w-25 text-end img-show",children:h.jsx("img",{className:"w-50",src:"/react-app/images/1.jpg",alt:""})})]})}),h.jsx("div",{className:"row g-4 py-3 row-cols-1 row-cols-lg-1",children:h.jsxs("div",{className:"col d-flex cst-col align-items-center",children:[h.jsx("div",{className:"icon-square text-dark flex-shrink-0 me-3",children:h.jsx("span",{className:"fw-bold border-radius-5 p-3 fs-5 rounded-circle cst-span",children:"02"})}),h.jsx("div",{className:"vertical-divider"}),h.jsxs("div",{className:"px-4",children:[h.jsx("p",{children:"August 9, 2024 Branding 0 Comments"}),h.jsx("h3",{className:"cst-ah",children:"Why We Should Read Fewer Books"})]}),h.jsx("div",{className:"img-fluid w-25 text-end img-show",children:h.jsx("img",{className:"w-50",src:"/react-app/images/1.jpg",alt:""})})]})}),h.jsx("div",{className:"row g-4 py-3 row-cols-1 row-cols-lg-1",children:h.jsxs("div",{className:"col d-flex cst-col align-items-center",children:[h.jsx("div",{className:"icon-square text-dark flex-shrink-0 me-3",children:h.jsx("span",{className:"fw-bold border-radius-5 p-3 fs-5 rounded-circle cst-span",children:"03"})}),h.jsx("div",{className:"vertical-divider"}),h.jsxs("div",{className:"px-4",children:[h.jsx("p",{children:"August 9, 2024 Branding 0 Comments"}),h.jsx("h3",{className:"cst-ah",children:"A Final Farewell to the iPod"})]}),h.jsx("div",{className:"img-fluid w-25 text-end img-show",children:h.jsx("img",{className:"w-50",src:"/react-app/images/1.jpg",alt:""})})]})}),h.jsx("div",{className:"row g-4 py-3 row-cols-1 row-cols-lg-1",children:h.jsxs("div",{className:"col d-flex cst-col align-items-center",children:[h.jsx("div",{className:"icon-square text-dark flex-shrink-0 me-3",children:h.jsx("span",{className:"fw-bold border-radius-5 p-3 fs-5 rounded-circle cst-span",children:"04"})}),h.jsx("div",{className:"vertical-divider"}),h.jsxs("div",{className:"px-4",children:[h.jsx("p",{children:"August 9, 2024 Branding 0 Comments"}),h.jsx("h3",{className:"cst-ah",children:"Dealing with Spring Allergy Symptoms"})]}),h.jsx("div",{className:"img-fluid w-25 text-end img-show",children:h.jsx("img",{className:"w-50",src:"/react-app/images/1.jpg",alt:""})})]})}),h.jsx("div",{className:"row g-4 py-3 row-cols-1 row-cols-lg-1",children:h.jsxs("div",{className:"col d-flex cst-col align-items-center",children:[h.jsx("div",{className:"icon-square text-dark flex-shrink-0 me-3",children:h.jsx("span",{className:"fw-bold border-radius-5 p-3 fs-5 rounded-circle cst-span",children:"05"})}),h.jsx("div",{className:"vertical-divider"}),h.jsxs("div",{className:"px-4",children:[h.jsx("p",{children:"August 9, 2024 Branding 0 Comments"}),h.jsx("h3",{className:"cst-ah",children:"How to Take a Break from Yourself"})]}),h.jsx("div",{className:"img-fluid w-25 text-end img-show",children:h.jsx("img",{className:"w-50",src:"/react-app/images/1.jpg",alt:""})})]})}),h.jsx("div",{className:"row g-4 py-3 row-cols-1 row-cols-lg-1",children:h.jsxs("div",{className:"col d-flex cst-col align-items-center",children:[h.jsx("div",{className:"icon-square text-dark flex-shrink-0 me-3",children:h.jsx("span",{className:"fw-bold border-radius-5 p-3 fs-5 rounded-circle cst-span",children:"06"})}),h.jsx("div",{className:"vertical-divider"}),h.jsxs("div",{className:"px-4",children:[h.jsx("p",{children:"August 9, 2024 Branding 0 Comments"}),h.jsx("h3",{className:"cst-ah",children:"The Age of Extinction Is Here"})]}),h.jsx("div",{className:"img-fluid w-25 text-end img-show",children:h.jsx("img",{className:"w-50",src:"/react-app/images/1.jpg",alt:""})})]})})]})]}),h.jsx("div",{className:"col-md-5 order-md-1 cst-home-img"})]})}),Lj=Gt.div`
 @media (max-width: 576px) {
     .p-5{
       padding: 1rem !important;
@@ -664,12 +664,12 @@ https://sweetalert2.github.io/#ajax-request`),uj(e),typeof e.title=="string"&&(e
     width: 45vw;
   }
   .cst-home-img {
-    background: url("/images/home.jpg") no-repeat
+    background: url("/react-app/images/home.jpg") no-repeat
       center center / cover;
     height: calc(100vh - 135px);
     width: 33vw;
   }
-`,Oj=()=>h.jsx("div",{children:h.jsx(_j,{})}),Rj=()=>h.jsx(Mj,{children:h.jsx("nav",{className:"navbar navbar-expand-lg navbar-light",children:h.jsxs("div",{className:"container-fluid",children:[h.jsx("h2",{className:"navbar-brand fw-bold fs-3",children:"SHAHZAIB."}),h.jsx("button",{className:"navbar-toggler",type:"button","data-bs-toggle":"collapse","data-bs-target":"#navbarSupportedContent","aria-controls":"navbarSupportedContent","aria-expanded":"false","aria-label":"Toggle navigation",children:h.jsx("span",{className:"navbar-toggler-icon"})}),h.jsxs("div",{className:"collapse navbar-collapse",id:"navbarSupportedContent",children:[h.jsx("img",{src:"/images/home.jpg",alt:"Menu Image",className:"menu-image img-fluid p-2"}),h.jsxs("ul",{className:"navbar-nav ms-auto mb-2 mb-lg-0",children:[h.jsx("li",{className:"nav-item",children:h.jsx(Yn,{to:"/",end:!0,className:({isActive:e})=>e?"nav-link active":"nav-link",children:"Home"})}),h.jsx("li",{className:"nav-item",children:h.jsx(Yn,{to:"/about",className:({isActive:e})=>e?"nav-link active":"nav-link",children:"About"})}),h.jsx("li",{className:"nav-item",children:h.jsx(Yn,{to:"/portfolio",className:({isActive:e})=>e?"nav-link active":"nav-link",children:"Portfolio"})}),h.jsx("li",{className:"nav-item",children:h.jsx(Yn,{to:"/services",className:({isActive:e})=>e?"nav-link active":"nav-link",children:"Services"})}),h.jsx("li",{className:"nav-item",children:h.jsx(Yn,{to:"/news",className:({isActive:e})=>e?"nav-link active":"nav-link",children:"News"})}),h.jsx("li",{className:"nav-item",children:h.jsx(Yn,{to:"/contact",className:({isActive:e})=>e?"nav-link active":"nav-link",children:"Contact"})})]})]})]})})}),Mj=Gt.div`
+`,Oj=()=>h.jsx("div",{children:h.jsx(_j,{})}),Rj=()=>h.jsx(Mj,{children:h.jsx("nav",{className:"navbar navbar-expand-lg navbar-light",children:h.jsxs("div",{className:"container-fluid",children:[h.jsx("h2",{className:"navbar-brand fw-bold fs-3",children:"SHAHZAIB."}),h.jsx("button",{className:"navbar-toggler",type:"button","data-bs-toggle":"collapse","data-bs-target":"#navbarSupportedContent","aria-controls":"navbarSupportedContent","aria-expanded":"false","aria-label":"Toggle navigation",children:h.jsx("span",{className:"navbar-toggler-icon"})}),h.jsxs("div",{className:"collapse navbar-collapse",id:"navbarSupportedContent",children:[h.jsx("img",{src:"/react-app/images/home.jpg",alt:"Menu Image",className:"menu-image img-fluid p-2"}),h.jsxs("ul",{className:"navbar-nav ms-auto mb-2 mb-lg-0",children:[h.jsx("li",{className:"nav-item",children:h.jsx(Yn,{to:"/",end:!0,className:({isActive:e})=>e?"nav-link active":"nav-link",children:"Home"})}),h.jsx("li",{className:"nav-item",children:h.jsx(Yn,{to:"/about",className:({isActive:e})=>e?"nav-link active":"nav-link",children:"About"})}),h.jsx("li",{className:"nav-item",children:h.jsx(Yn,{to:"/portfolio",className:({isActive:e})=>e?"nav-link active":"nav-link",children:"Portfolio"})}),h.jsx("li",{className:"nav-item",children:h.jsx(Yn,{to:"/services",className:({isActive:e})=>e?"nav-link active":"nav-link",children:"Services"})}),h.jsx("li",{className:"nav-item",children:h.jsx(Yn,{to:"/news",className:({isActive:e})=>e?"nav-link active":"nav-link",children:"News"})}),h.jsx("li",{className:"nav-item",children:h.jsx(Yn,{to:"/contact",className:({isActive:e})=>e?"nav-link active":"nav-link",children:"Contact"})})]})]})]})})}),Mj=Gt.div`
   background: #f6fbff;
 
   a {
