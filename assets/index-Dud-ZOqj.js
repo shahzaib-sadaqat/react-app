@@ -163,8 +163,8 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
     color: #000 !important;
   }
   .cst-home-img {
-    background: url("/images/home.jpg") no-repeat
-      center center / cover;
+    background: url("/react-app/images/home.jpg") no-repeat center center /
+      cover;
     height: calc(100vh - 135px);
     width: 33vw;
   }
