@@ -201,6 +201,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   }
   .cst-shadow {
     box-shadow: 0px 2px 18px #e9e9e9;
+    transition: all 0.5s ease-in-out;
   }
   .cst-shadow:hover {
     background: #000;
@@ -439,7 +440,9 @@ https://sweetalert2.github.io/#ajax-request`),uj(e),typeof e.title=="string"&&(e
   p {
     color: #000;
   }
-
+  .cst-col{
+    transition: all 0.5s ease;
+  }
   .cst-col:hover {
     background-color: #000;
     color: #fff;
@@ -704,6 +707,7 @@ https://sweetalert2.github.io/#ajax-request`),uj(e),typeof e.title=="string"&&(e
   .Tw,
   .Ld {
     cursor: pointer;
+    transition: all 0.3s ease-in-out;
   }
   .fb:hover {
     transform: scale(1.5);
